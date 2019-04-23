@@ -1,0 +1,9 @@
+env:
+- name: DEPLOY_NAMESPACE
+  value: jx-staging-github
+  valuefrom: null
+pipelineConfig:
+  env:
+  - name: DEPLOY_NAMESPACE
+    value: jx-staging-github
+    valuefrom: null

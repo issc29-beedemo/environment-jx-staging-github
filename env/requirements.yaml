@@ -24,4 +24,4 @@ dependencies:
   version: 0.0.3
 - name: react-jenkins-day-demo
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.6
